@@ -1,5 +1,5 @@
 // server.js
-require('dotenv').config(); // this line is mandatory when you want to read variables from the '.env' file 
+require('dotenv').config();
 
 
 
